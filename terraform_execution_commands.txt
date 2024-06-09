@@ -1,0 +1,7 @@
+terraform init
+terraform fmt
+terraform validate
+terraform plan
+terraform apply --auto-approve
+terraform destroy --auto-approve
+Apply complete! Resources: 27 added, 0 changed, 0 destroyed.
